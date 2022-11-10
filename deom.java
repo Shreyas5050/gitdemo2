@@ -1,6 +1,6 @@
 class deom(){
-	psvm()
+	public static void main()
 	{
-		sop("SP");
+		System.out.println("SP Git demo");
 	}
 }
